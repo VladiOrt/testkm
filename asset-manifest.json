@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/testkm/static/css/main.0cbd224b.css",
+    "main.js": "/testkm/static/js/main.04ae72cf.js",
+    "static/js/787.c771f4af.chunk.js": "/testkm/static/js/787.c771f4af.chunk.js",
+    "static/media/fondo.png": "/testkm/static/media/fondo.4b269fcd889f3995482c.png",
+    "static/media/PPEiko-BlackItalic.otf": "/testkm/static/media/PPEiko-BlackItalic.76f7af6c8b7ccd598dc5.otf",
+    "static/media/PPEiko-LightItalic.otf": "/testkm/static/media/PPEiko-LightItalic.b8bbcc6707a8c6be31ac.otf",
+    "static/media/PPEiko-Medium.otf": "/testkm/static/media/PPEiko-Medium.3c2d6922b5721506be7e.otf",
+    "static/media/PPEiko-Heavy.otf": "/testkm/static/media/PPEiko-Heavy.9323fcaccd5e1757b844.otf",
+    "static/media/PPEiko-Thin.otf": "/testkm/static/media/PPEiko-Thin.a10ef1f0ce3d74a4d031.otf",
+    "static/media/Druk-Medium.ttf": "/testkm/static/media/Druk-Medium.2448167c09e51f42606f.ttf",
+    "static/media/Logo.png": "/testkm/static/media/Logo.43538964deb816caa61c.png",
+    "static/media/Texto.png": "/testkm/static/media/Texto.222fa72f3f218abf6765.png",
+    "static/media/logo.svg": "/testkm/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/testkm/index.html",
+    "main.0cbd224b.css.map": "/testkm/static/css/main.0cbd224b.css.map",
+    "main.04ae72cf.js.map": "/testkm/static/js/main.04ae72cf.js.map",
+    "787.c771f4af.chunk.js.map": "/testkm/static/js/787.c771f4af.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0cbd224b.css",
+    "static/js/main.04ae72cf.js"
+  ]
+}
