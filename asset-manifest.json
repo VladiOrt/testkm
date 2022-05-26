@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "/testkm/static/css/main.d78f1c3b.css",
-    "main.js": "/testkm/static/js/main.ad817fd9.js",
+    "main.css": "/testkm/static/css/main.33161eeb.css",
+    "main.js": "/testkm/static/js/main.f079dca5.js",
     "static/js/787.c771f4af.chunk.js": "/testkm/static/js/787.c771f4af.chunk.js",
-    "static/media/fondo1.png": "/testkm/static/media/fondo1.29d6f29595054652ce4d.png",
+    "static/media/fondo2.png": "/testkm/static/media/fondo2.9a13fcc58e251c0ff3fb.png",
     "static/media/fondo.png": "/testkm/static/media/fondo.2c7e4360985bd8333c7e.png",
     "static/media/pageone.png": "/testkm/static/media/pageone.23534f2861add1c175d6.png",
-    "static/media/fondo3.png": "/testkm/static/media/fondo3.aec16fe04131695ae212.png",
+    "static/media/fondo3.png": "/testkm/static/media/fondo3.a33396182e5f83665843.png",
+    "static/media/fondo1.png": "/testkm/static/media/fondo1.da4e1683100901e23cba.png",
     "static/media/PPEiko-BlackItalic.otf": "/testkm/static/media/PPEiko-BlackItalic.76f7af6c8b7ccd598dc5.otf",
     "static/media/PPEiko-LightItalic.otf": "/testkm/static/media/PPEiko-LightItalic.b8bbcc6707a8c6be31ac.otf",
     "static/media/PPEiko-Medium.otf": "/testkm/static/media/PPEiko-Medium.3c2d6922b5721506be7e.otf",
@@ -19,12 +20,12 @@
     "static/media/Logo.png": "/testkm/static/media/Logo.43538964deb816caa61c.png",
     "static/media/Texto.png": "/testkm/static/media/Texto.222fa72f3f218abf6765.png",
     "index.html": "/testkm/index.html",
-    "main.d78f1c3b.css.map": "/testkm/static/css/main.d78f1c3b.css.map",
-    "main.ad817fd9.js.map": "/testkm/static/js/main.ad817fd9.js.map",
+    "main.33161eeb.css.map": "/testkm/static/css/main.33161eeb.css.map",
+    "main.f079dca5.js.map": "/testkm/static/js/main.f079dca5.js.map",
     "787.c771f4af.chunk.js.map": "/testkm/static/js/787.c771f4af.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d78f1c3b.css",
-    "static/js/main.ad817fd9.js"
+    "static/css/main.33161eeb.css",
+    "static/js/main.f079dca5.js"
   ]
 }
