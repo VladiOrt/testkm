@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/testkm/static/css/main.3a872c06.css",
+    "main.js": "/testkm/static/js/main.ad817fd9.js",
+    "static/js/787.c771f4af.chunk.js": "/testkm/static/js/787.c771f4af.chunk.js",
+    "static/media/fondo1.png": "/testkm/static/media/fondo1.29d6f29595054652ce4d.png",
+    "static/media/fondo.png": "/testkm/static/media/fondo.2c7e4360985bd8333c7e.png",
+    "static/media/pageone.png": "/testkm/static/media/pageone.23534f2861add1c175d6.png",
+    "static/media/fondo3.png": "/testkm/static/media/fondo3.aec16fe04131695ae212.png",
+    "static/media/PPEiko-BlackItalic.otf": "/testkm/static/media/PPEiko-BlackItalic.76f7af6c8b7ccd598dc5.otf",
+    "static/media/PPEiko-LightItalic.otf": "/testkm/static/media/PPEiko-LightItalic.b8bbcc6707a8c6be31ac.otf",
+    "static/media/PPEiko-Medium.otf": "/testkm/static/media/PPEiko-Medium.3c2d6922b5721506be7e.otf",
+    "static/media/PPEiko-Heavy.otf": "/testkm/static/media/PPEiko-Heavy.9323fcaccd5e1757b844.otf",
+    "static/media/PublicoHeadline-LightItalic.otf": "/testkm/static/media/PublicoHeadline-LightItalic.fa13604ff230bc0d86e6.otf",
+    "static/media/PPEiko-Thin.otf": "/testkm/static/media/PPEiko-Thin.a10ef1f0ce3d74a4d031.otf",
+    "static/media/Druk-Bold.otf": "/testkm/static/media/Druk-Bold.ac6a64c3ce0f0c681df0.otf",
+    "static/media/Druk-Medium.ttf": "/testkm/static/media/Druk-Medium.2448167c09e51f42606f.ttf",
+    "static/media/ufonts.com_apexnew-book-opentype.otf": "/testkm/static/media/ufonts.com_apexnew-book-opentype.e24911b20875b98c4258.otf",
+    "static/media/Logo.png": "/testkm/static/media/Logo.43538964deb816caa61c.png",
+    "static/media/Texto.png": "/testkm/static/media/Texto.222fa72f3f218abf6765.png",
+    "index.html": "/testkm/index.html",
+    "main.3a872c06.css.map": "/testkm/static/css/main.3a872c06.css.map",
+    "main.ad817fd9.js.map": "/testkm/static/js/main.ad817fd9.js.map",
+    "787.c771f4af.chunk.js.map": "/testkm/static/js/787.c771f4af.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a872c06.css",
+    "static/js/main.ad817fd9.js"
+  ]
+}
