@@ -1,0 +1,59 @@
+.containerHomePageThree{
+    min-height: 100vh;
+    min-width: 100vw;
+    background-color: black;
+    background: rgb(0,0,0);
+    //background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(31,31,31,1)  100%);
+  
+    background-image: url('../../img/home/pagethree/fondo.png');
+    background-size: 45vw;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    .texto1,.texto2, .texto3{
+        color: #FFF;
+    }
+
+    .texto1{
+        position: absolute;        
+        min-width: 12vw;
+        max-width: 12vw;
+        margin-bottom: 37vh;
+        margin-right: 55vw;
+        font-size: 1.2rem;
+        text-align: right;
+        line-height: 32px;
+        font-family: ApexBook;
+        color: rgb(216,216,216);
+    }
+
+
+    .texto2{
+        position: absolute;        
+        min-width: 11vw;
+        max-width: 11vw;
+        margin-bottom: -25vh;
+        margin-right: 54vw;
+        font-size: 1.2rem;
+        text-align: right;
+        line-height: 32px;
+        font-family: ApexBook;
+        color: rgb(216,216,216);
+    }
+
+    .texto3{
+        position: absolute;        
+        min-width: 11vw;
+        max-width: 11vw;
+        margin-bottom: 7vh;
+        margin-right: -54vw;
+        font-size: 1.2rem;
+        text-align: left;
+        line-height: 32px;
+        font-family: ApexBook;
+        color: rgb(216,216,216);
+    }
+}

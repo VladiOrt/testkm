@@ -1,0 +1,68 @@
+.containerHomePageone{
+    background-color: #151515;
+    min-height: 100vh;
+    min-width: 100vw;
+
+    display: flex;
+    flex-direction: row;
+    .sectionLeftHomePageOne{
+        z-index: 1;
+        min-width: 65vw;
+        background-image: url('../../img/home/pageone/fondo.png');
+        background-size: 100%;
+        
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        hr{
+            margin: 5vh;
+            border: 1px solid #C7974B;
+            min-width: 4vw;
+        }
+        text{
+            color: #FFF;
+            font-size: 2rem;
+            border: 1px solid #DDB982;
+            padding-left: 1.5vw;
+            padding-right: 1.5vw;
+            font-family: PpeikoThin;
+        }
+    }
+    .sectionRighttHomePageOne{
+        z-index: 2;
+        min-width: 35vw;
+        display: flex;
+        flex-direction: column;
+        .text{
+            min-height: 60vh;
+            color: #FFF;
+            display: flex;
+            align-items: flex-end;
+            margin-left: 0vw;
+            label{
+                margin-bottom: -2vh;
+                font-size: 4rem;
+                text-align: right;
+                margin-left: -2vw;
+                font-family: PpeikoMedium;
+            }
+        }
+        .sello{
+            min-height: 30vh;
+            display: flex;
+            align-items: center;
+            margin-top: 10vh;
+            margin-left: -4vw;
+            div{
+                background: rgb(224,190,141);
+                background: linear-gradient(90deg, rgba(224,190,141,1) 0%, rgba(199,151,75,1) 100%);
+                min-width: 8vw;
+                max-width: 8vw;
+                min-height: 18px;
+                max-height: 18px;                
+            }
+        }
+        
+    }
+}

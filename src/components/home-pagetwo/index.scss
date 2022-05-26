@@ -1,0 +1,91 @@
+.containerHomePageTwo{
+    min-height: 100vh;
+    min-width: 100vw;
+    display: flex;
+    flex-direction: row;
+    margin-top: 10vh;
+
+    .sectionOneHomePageTwo{ 
+        z-index: 2;
+        min-width: 5vw;
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+        .sello{
+            min-height: 70vh;
+            display: flex;
+            align-items: flex-end;
+            margin-right: -4vw;
+            div{
+                background: rgb(224,190,141);
+                background: linear-gradient(90deg, rgba(224,190,141,1) 0%, rgba(199,151,75,1) 100%);
+                min-width: 8vw;
+                max-width: 8vw;
+                min-height: 18px;
+                max-height: 18px;
+            }
+        }
+        .lineaUno{
+            position: absolute;
+            border: 1px solid #707070;
+            min-width: 4vw;
+            max-width: 4vw;
+            margin-bottom: 70vh;
+            margin-right: 1vw;
+        }
+        .lineaDos{
+            position: absolute;
+            border: 1px solid #707070;
+            min-width: 6vw;
+            max-width: 6vw;
+            margin-bottom: -30vh;
+            margin-right: -61vw;
+        }
+    }
+    .sectionTwoHomePageTwo{
+        min-width: 45vw;
+        display: flex;
+        align-items: flex-end;
+        .sectionTwoHomePageTwoFondo{
+            min-width: 45vw;
+            min-height: 100vh;
+            max-height: 100vh;
+            background-image: url('../../img/home/pagetwo/fondo.png');
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+        }
+
+    }
+    .sectionThreeHomePageTwo{
+        min-width: 10vw;
+        display: flex;
+        justify-content: center;    
+        align-items: flex-end;
+        font-size: 13rem;
+        writing-mode: vertical-lr;
+        transform: rotate(180deg);
+        line-height: 9rem;
+        font-family: PpeikoMedium;
+        margin-left: -0.5vw;
+    }
+    .sectionFourHomePageTwo{
+        min-width: 40vw;
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+        text{
+            color: #E0BE8D;
+            min-height: 20vh;
+            min-width:16vw;
+            max-width:16vw;
+            text-align: left;
+            margin-left: 1.5vw;
+            font-size: 2rem;
+            line-height: 2.8rem;
+            letter-spacing: 1rem;
+            font-family: DrukBold;
+            text-transform: uppercase;
+        }
+    }
+}

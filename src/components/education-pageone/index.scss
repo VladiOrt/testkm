@@ -1,0 +1,86 @@
+.containerEducationPageOne{
+    min-width: 100vw;
+    min-height: 100vh;
+    max-width: 100vw;
+    max-height: 100vh;
+    display: flex;
+    align-items: flex-end;
+
+    .sectionOneEducationPageOne{
+        z-index: 3;
+        min-width: 50vw;
+        min-height: 100vh;
+        .sectionContentEducationPageOne{
+            min-height: 60vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            .one{
+                position: absolute;
+                min-width: 10vw;
+                border: 1px solid  #707070;
+                margin-bottom: 40vh;
+                margin-left: 50vw;
+            }
+            .two{
+                position: absolute;
+                min-width: 5vw;
+                border: 1px solid  #707070;
+                margin-bottom: -20vh;
+                margin-left: -30vw;
+            }
+            h2{
+                z-index: 5;
+                position: absolute;
+                font-family: PpeikoMedium;
+                font-size: 20rem;
+                font-weight: 400;
+                color: #000;
+                margin-top: 40vh;
+                margin-left: 48vw;
+            }
+            h1{
+                display: none;
+                z-index: 4;
+                position: absolute;
+                font-family: PpeikoMedium;
+                font-size: 25rem;
+                font-weight: 400;
+                margin-left: 35vw;
+            }
+            .sello1{
+                position: absolute;
+                min-width: 40vw;
+                min-height: 1.5rem;
+                background-color: #E0BE8D;
+                margin-top: 110vh;
+                margin-left: 50vw;
+                z-index: 20;
+            }
+            .sello2{
+                position: absolute;
+                min-width: 8vw;
+                min-height: 1.5rem;
+                background-color: #E0BE8D;
+                margin-top: 0vh;
+                margin-left: 140vw;
+                z-index: 20;
+            }
+        }
+    }
+    .sectionTwoEducationPageOne{
+        z-index: 2;
+        min-width: 45vw;
+        min-height: 100vh;
+        background-image: url('../../img/education/pageone/fondo.png');
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    .sectionThreeEducationPageOne{
+        position: absolute;
+        z-index: 3;
+        min-width: 100vw;
+        min-height: 40vh;
+    }
+}

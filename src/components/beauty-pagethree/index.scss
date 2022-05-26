@@ -1,0 +1,106 @@
+.containerBeautyPageThree{
+    min-width: 100vw;
+    min-height: 100vh;
+    max-width: 100vw;
+    max-height: 100vh;
+    display: flex;
+    align-items: flex-end;
+
+    .sectionOneBeautyPageThree{
+        z-index: 3;
+        min-width: 50vw;
+        min-height: 100vh;
+        .sectionContentOneBeautyPageThree{
+            min-height: 60vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            .one{
+                display:none;    
+            }
+            .two{
+                position: absolute;
+                min-width: 27vw;
+                max-width: 27vw;
+                margin-bottom: -40vh;
+                margin-left: 0vw;
+                line-height: 1.8rem;
+                font-size: 1.4rem;
+                color: #707070;
+                font-family: ApexBook;
+            }
+            h2{
+                z-index: 5;
+                position: absolute;
+                font-family: PpeikoLight;
+                font-size: 5rem;
+                font-weight: 400;
+                color: #E0BE8D;
+                margin-left: -8vw;
+                margin-bottom: 0vh;
+                margin-top: 0;
+         
+            }
+            .h1{
+                display: none;
+                z-index: 4;
+                position: absolute;
+                font-family: PpeikoMedium;
+                font-size: 40rem;
+                font-weight: 400;
+                margin-left: 20vw;
+                margin-bottom: 20vh;
+            }
+            .sello1{
+                position: absolute;
+                min-width: 8vw;
+                min-height: 1.5rem;                 
+                max-height: 1.5rem;                
+                background: rgb(224,190,141);
+                background: linear-gradient(90deg, rgba(224,190,141,1) 0%, rgba(199,151,75,1) 100%);
+              
+                margin-bottom: -110vh;
+                margin-left: 140vw;
+                z-index: 20;
+            }
+            .sello2{
+                position: absolute;
+                min-width: 8vw;
+                min-height: 1.5rem;                 
+                max-height: 1.5rem; 
+                margin-left: 50vw;
+                margin-bottom: 0vh;
+                background: rgb(224,190,141);
+                background: linear-gradient(90deg, rgba(224,190,141,1) 0%, rgba(199,151,75,1) 100%);
+              
+            }
+        }
+    }
+    .sectionTwoBeautyPageThree{
+        z-index: 2;
+        min-width: 45vw;
+        min-height: 100vh;
+        background-image: url('../../img/beauty/pagethree/fondo.png');
+        background-size: cover;
+        background-repeat: no-repeat;
+        display: flex;
+        justify-content: flex-start;
+        align-items: flex-end;
+        text{
+            color: #C7974B;
+            font-size: 2rem;
+            margin-bottom: 3vh;
+            margin-left: 3vw;
+            min-width: 20vw;
+            font-family: PpeikoLight;
+            max-width: 20vw;
+        }
+    }
+    .sectionThreeBeatyPageThree{
+        position: absolute;
+        z-index: 3;
+        min-width: 100vw;
+        min-height: 40vh;
+    }
+}

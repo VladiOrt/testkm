@@ -1,13 +1,86 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+
 body {
-  margin: 0;
+  width: 100vw;
+  max-width: 100vw;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  margin: 0px;
+  padding: 0px;
+  margin-right: 0;
 }
 
+
+
+/* PPEIKO */
+@font-face {
+  font-family: PpeikoBlack;
+  src: local('fonts'),
+   url("./fonts/ppeiko/PPEiko-BlackItalic.otf") format("opentype");
+}
+@font-face {
+  font-family: PpeikoHeavy;
+  src: local('fonts'),
+   url("./fonts/ppeiko/PPEiko-Heavy.otf") format("opentype");
+}
+@font-face {
+  font-family: PpeikoLight;
+  src: local('fonts'),
+   url("./fonts/ppeiko/PPEiko-LightItalic.otf") format("opentype");
+}
+@font-face {
+  font-family: PpeikoMedium;
+  src: local('fonts'),
+   url("./fonts/ppeiko/PPEiko-Medium.otf") format("opentype");
+}
+@font-face {
+  font-family: PpeikoThin;
+  src: local('fonts'),
+   url("./fonts/ppeiko/PPEiko-Thin.otf") format("opentype");
+}
+/* DRUK */
+@font-face {
+  font-family: Druk;
+  src: local('fonts'),
+   url("./fonts/druk/Druk-Medium.ttf") format("opentype");
+}
+@font-face {
+  font-family: DrukBold;
+  src: local('fonts'),
+   url("./fonts/druk/Druk-Bold.otf") format("opentype");
+}
+
+/* APEX */
+@font-face {
+  font-family: ApexBook;
+  src: local('fonts'),
+   url("./fonts/apex/ufonts.com_apexnew-book-opentype.otf") format("opentype");
+}
+
+/* PUBLICO */
+@font-face {
+  font-family: PublicoHeadlineLightItalic;
+  src: local('fonts'),
+   url("./fonts/publico/PublicoHeadline-LightItalic.otf") format("opentype");
+}
+
+
+
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',PpeikoBlack,ApexBook,
+  PpeikoHeavy,
+  PpeikoLight,
+  PpeikoMedium,
+  PpeikoThin,
+  Druk,
+  DrukBold,
+  PublicoHeadlineLightItalic,
     monospace;
 }

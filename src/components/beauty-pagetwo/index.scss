@@ -1,0 +1,96 @@
+.containerBeautyPageTwo{
+    min-width: 100vw;
+    min-height: 100vh;
+    max-width: 100vw;
+    max-height: 100vh;
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: row-reverse;
+
+    .sectionOneBeautyPageTwo{
+        z-index: 3;
+        min-width: 50vw;
+        min-height: 100vh;
+        .sectionContentOneBeautyPageTwo{
+            min-height: 60vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            .one{
+                position: absolute;
+                min-width: 28vw;
+                max-width: 28vw;
+                margin-bottom: -145vh;
+                margin-left: -90vw;
+                color: #E0BE8D;
+                font-size: 2.3rem;
+                font-family: PpeikoLight;
+            }
+            .two{
+                position: absolute;
+                min-width: 5vw;
+                max-width: 20vw;
+                margin-bottom: -50vh;
+                line-height: 1.8rem;
+                font-size: 1.4rem;
+                color: #707070;
+                font-family: ApexBook;
+            }
+            h2{
+                z-index: 5;
+                position: absolute;
+                font-family: PpeikoLight;
+                font-size: 6rem;
+                font-weight: 400;
+                color: #E0BE8D;
+                margin-left: 0vw;
+                margin-left: 5vw;
+                text-align: right;
+                margin-bottom: -5vh;
+                margin-top: 0;
+         
+            }
+            h1{
+                display: none;              
+            }
+            .sello1{
+                position: absolute;
+                min-width: 15vw;
+                min-height: 1.5rem;                
+                background: rgb(224,190,141);
+                background: linear-gradient(90deg, rgba(224,190,141,1) 0%, rgba(199,151,75,1) 100%);
+                margin-bottom: -130vh;
+                margin-left: -130vw;
+                z-index: 20;
+            }
+            .sello2{
+                position: absolute;
+                min-width: 10vw;
+                min-height: 1.5rem; 
+                margin-left: -40vw;
+                margin-bottom: -5vh;
+                background: rgb(224,190,141);
+                background: linear-gradient(90deg, rgba(224,190,141,1) 0%, rgba(199,151,75,1) 100%);
+              
+            }
+        }
+    }
+    .sectionTwoBeautyPageTwo{
+        z-index: 2;
+        min-width: 45vw;
+        min-height: 100vh;
+        background-image: url('../../img/beauty/pagetwo/fondo.png');
+        background-size: 100%;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+    .sectionThreeBeatyPageTwo{
+        position: absolute;
+        z-index: 3;
+        min-width: 100vw;
+        min-height: 40vh;
+    }
+}

@@ -1,0 +1,114 @@
+.containerEducationPageTwo{
+    min-width: 100vw;
+    min-height: 100vh;
+    max-width: 100vw;
+    max-height: 100vh;
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+    display: flex;
+    align-items: flex-end;
+    flex-direction: row-reverse;
+    .sectionOneEducationPageTwo{
+        z-index: 3;
+        min-width: 50vw;
+        min-height: 100vh;
+        .sectionContentOneEducationPageTwo{
+            min-height: 60vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            .one{
+                z-index: 20;
+                position: absolute;
+                min-width: 8vw;
+                border: 1px solid  #707070;
+                margin-top: -50vh;
+                margin-right: 50vw;
+            }
+            .two{
+                z-index: 20;
+                position: absolute;
+                min-width: 4vw;
+                margin-right: 145vw;
+                margin-top: 35vh;
+                border: 1px solid  #707070;
+            }
+            .h2{
+                background-color: #C7974B;
+                z-index: 5;
+                position: absolute;
+                font-family: PpeikoLight;
+                font-size: 1.2rem;
+                font-weight: 400;
+                color: #E0BE8D;
+                min-width: 14vw;
+                max-width: 14vw;
+                padding: 2.5rem;
+                margin-top: 55vh;
+                margin-right: 5vw;
+                text-align: left;
+                font-family: ApexBook;
+                color: #FFF;
+                line-height: 1.8rem;
+                
+            }
+            .h1{
+                padding: 2.5rem;
+                text-align: justify;
+                background-color: #FFF;
+                z-index: 4;
+                position: absolute;
+                font-family: ApexBook;
+                font-size: 1.2rem;
+                font-weight: 400;
+                margin-right: 40vw;
+                margin-bottom: 10ch;
+                min-width: 23vw;
+                max-width: 23vw;
+                color: #707070;
+                line-height: 1.8rem;
+                text-align: left;
+                text{
+                    color: #C7974B;
+                    font-family: PpeikoLight;
+                }
+            }
+            .sello1{
+                position: absolute;
+                min-width: 8vw;
+                min-height: 1.5rem;                
+                background: rgb(224,190,141);
+                background: linear-gradient(90deg, rgba(199,151,75,1) 0%, rgba(224,190,141,1) 100%);
+              
+                margin-bottom: 10vh;
+                margin-right: 140vw;
+                z-index: 20;
+            }
+            .sello2{
+                position: absolute;
+                min-width: 8vw;
+                margin-right: 50vw;
+                margin-top: 110vh;
+                min-height: 1.5rem; 
+                background: rgb(224,190,141);
+                background: linear-gradient(90deg, rgba(199,151,75,1) 0%, rgba(224,190,141,1) 100%);
+              
+            }
+        }
+    }
+    .sectionTwoEducationPageTwo{
+        z-index: 2;
+        min-width: 45vw;
+        min-height: 100vh;
+        background-image: url('../../img/education/pagetwo/fondo.png');
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    .sectionThreeEducationPageTwo{
+        position: absolute;
+        z-index: 3;
+        min-width: 100vw;
+        min-height: 40vh;
+    }
+}
