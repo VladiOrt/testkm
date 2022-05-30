@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "/testkm/static/css/main.aa318741.css",
-    "main.js": "/testkm/static/js/main.2d6be725.js",
+    "main.css": "/testkm/static/css/main.7a63bcc6.css",
+    "main.js": "/testkm/static/js/main.f442f10c.js",
     "static/js/787.c771f4af.chunk.js": "/testkm/static/js/787.c771f4af.chunk.js",
     "static/media/fondo2.png": "/testkm/static/media/fondo2.9a13fcc58e251c0ff3fb.png",
     "static/media/fondo.png": "/testkm/static/media/fondo.2c7e4360985bd8333c7e.png",
     "static/media/pageone.png": "/testkm/static/media/pageone.23534f2861add1c175d6.png",
     "static/media/fondo3.png": "/testkm/static/media/fondo3.a33396182e5f83665843.png",
+    "static/media/fondomobil.png": "/testkm/static/media/fondomobil.8ed53bb89cabfd9f57a9.png",
     "static/media/fondo1.png": "/testkm/static/media/fondo1.da4e1683100901e23cba.png",
     "static/media/PPEiko-BlackItalic.otf": "/testkm/static/media/PPEiko-BlackItalic.76f7af6c8b7ccd598dc5.otf",
     "static/media/PPEiko-LightItalic.otf": "/testkm/static/media/PPEiko-LightItalic.b8bbcc6707a8c6be31ac.otf",
@@ -17,17 +18,18 @@
     "static/media/Druk-Bold.otf": "/testkm/static/media/Druk-Bold.ac6a64c3ce0f0c681df0.otf",
     "static/media/Druk-Medium.ttf": "/testkm/static/media/Druk-Medium.2448167c09e51f42606f.ttf",
     "static/media/ufonts.com_apexnew-book-opentype.otf": "/testkm/static/media/ufonts.com_apexnew-book-opentype.e24911b20875b98c4258.otf",
+    "static/media/fondomobile.png": "/testkm/static/media/fondomobile.44739970eec4708ae5db.png",
     "static/media/Logo.png": "/testkm/static/media/Logo.43538964deb816caa61c.png",
     "static/media/Texto.png": "/testkm/static/media/Texto.222fa72f3f218abf6765.png",
     "index.html": "/testkm/index.html",
     "static/media/izquierda.svg": "/testkm/static/media/izquierda.7ca745ddcfde390037fdc767dfe68ced.svg",
     "static/media/derecha.svg": "/testkm/static/media/derecha.ca47285b7c91ee401cab9252eff15ca1.svg",
-    "main.aa318741.css.map": "/testkm/static/css/main.aa318741.css.map",
-    "main.2d6be725.js.map": "/testkm/static/js/main.2d6be725.js.map",
+    "main.7a63bcc6.css.map": "/testkm/static/css/main.7a63bcc6.css.map",
+    "main.f442f10c.js.map": "/testkm/static/js/main.f442f10c.js.map",
     "787.c771f4af.chunk.js.map": "/testkm/static/js/787.c771f4af.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.aa318741.css",
-    "static/js/main.2d6be725.js"
+    "static/css/main.7a63bcc6.css",
+    "static/js/main.f442f10c.js"
   ]
 }
