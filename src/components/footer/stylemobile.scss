@@ -1,0 +1,58 @@
+@media (max-width: 480px) {
+
+    .containerGeneralFooter{
+        min-width: 100vw;
+        min-height: 60vh;
+        background-image: url('../../img/footer/fondomobil.png');
+        background-repeat: center;
+        background-size: 100%;
+        .sectionOneFooter{
+            min-height: 20vh;   
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            border-bottom: 1px solid #C7974B;
+
+            img{
+                max-width: 80%;
+            }
+        }
+        .sectionTwoFooter{
+            min-height: 10vh;   
+    
+            ul{
+                min-height: 10vh;
+                list-style: none;            
+                margin-top: 10vw;
+                min-width: 100%;
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+                li{
+
+                    min-width: 10%;
+                    color: #E0BE8D;
+                    font-size: 5.5vw;
+                    line-height: 10vw;
+                    .link{
+                        list-style: none;
+                        text-decoration: none;
+                        color: #E0BE8D;
+                        font-family: PublicoHeadlineLightItalic;
+                        cursor: pointer;
+                        background-repeat: no-repeat;
+                        background-image:   linear-gradient(to right, #C9C9C9 100%, #C9C9C9 100%);
+                        background-size:    20% 5%;//,
+                        background-position:   0% 95%;      
+                    }
+    
+                    .link:hover{
+                        transition-duration: 0.5s;
+                        background-size:    100% 5%;//,  
+                    }
+                }
+            }
+        }
+    }
+}

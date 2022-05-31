@@ -1,5 +1,6 @@
 import React from "react";
 import './index.scss'
+import './stylemobile.scss'
 
 import Logo from '../../img/beauty/pageone/Logo.png'
 const BeautyPageOne = () =>{
@@ -11,7 +12,7 @@ const BeautyPageOne = () =>{
                     <hr className="two" />
                     <h2>Beauty</h2>
                     <div className="h1">
-                        <img src={Logo}></img>
+                        <img src={Logo} loading='lazy' ></img>
                     </div>
                     <div className="sello1"></div>
                     <div className="sello2"></div>

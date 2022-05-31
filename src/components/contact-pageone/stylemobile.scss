@@ -1,0 +1,94 @@
+@media (max-width: 480px) {
+
+    .containerContactPageOne{
+        min-width: 100vw;
+        min-height: 100vh;
+        max-width: 100vw;
+        max-height: 100vh;
+        display: flex;
+        align-items: flex-end;
+    
+        .sectionOneContactPageOne{
+            z-index: 3;
+            min-width: 35vw;
+            min-height: 100vh;
+            .sectionContentContactPageOne{
+                min-height: 60vh;
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+                .one{
+                    position: absolute;
+                    min-width: 20vw;
+                    border: 1px solid  #707070;
+                    margin-bottom: 40vh;
+                    margin-left: -20vw;
+                }
+                .two{
+                    display: none;
+                    position: absolute;
+                    min-width: 5vw;
+                    border: 1px solid  #707070;
+                    margin-bottom: -20vh;
+                    margin-left: -45vw;
+                }
+                h2{
+                    min-width: 65vw;
+                    z-index: 5;
+                    position: absolute;
+                    font-family: PpeikoMedium;
+                    font-size: 20vw;
+                    font-weight: 400;
+                    color: #000;
+                    margin-top: 70vh;
+                    margin-left: 70vw;
+                    overflow-wrap: break-word;
+                }
+                h1{
+                    display: none;
+                }
+                .sello1{
+                    position: absolute;
+                    min-width: 80vw;
+                    min-height: 18px;
+                    max-height: 18px;
+                    background: rgb(224,190,141);
+                    background: linear-gradient(90deg, rgba(199,151,75,1) 0%, rgba(224,190,141,1) 100%);
+                  
+                    margin-top: 100vh;
+                    margin-left: 85vw;
+                    z-index: 20;
+                }
+                .sello2{
+                    position: absolute;
+                    min-width: 20vw;
+                    min-height: 18px;
+                    max-height: 18px;
+                    background: rgb(224,190,141);
+                    background: linear-gradient(90deg, rgba(224,190,141,1) 0%, rgba(199,151,75,1) 100%);
+                  
+                    margin-top: -30vh;
+                    margin-left: 35vw;
+                    z-index: 20;
+                }
+            }
+        }
+        .sectionTwoContactPageOne{
+            z-index: 2;
+            min-width: 65vw;
+            min-height: 100vh;
+            background-image: url('../../img/contact/pageone.png');
+            background-size: cover;
+            background-repeat: no-repeat;
+        }
+        .sectionThreeContactPageOne{
+            position: absolute;
+            z-index: 3;
+            min-width: 100vw;
+            min-height: 40vh;
+        }
+    }
+
+
+}

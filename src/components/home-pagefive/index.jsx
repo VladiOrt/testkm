@@ -1,5 +1,6 @@
 import React from "react";
 import './index.scss'
+import './stylemobile.scss'
 
 import ComillasIzquierda from '../../img/home/pagefive/comilllasIzq.png'
 import ComillasDer from '../../img/home/pagefive/comillasDer.png'
@@ -10,7 +11,7 @@ const HomePageFive = () =>{
                 <div className="text">
                     <hr />
                     <text>            
-                        <label>
+                        <label className="title">
                             INTEGRATED & OMNICHANNEL
                         </label>
                         <br></br>

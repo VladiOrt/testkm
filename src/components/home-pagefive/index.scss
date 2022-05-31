@@ -23,17 +23,16 @@
         .text{
             position: absolute;
             margin-top: 10vh;
-            margin-right: 30vw;
+            margin-right: 28.5vw;
             min-width: 18vw;
             max-width: 18vw;
             min-height: 10vh;
             color: #E0BE8D;            
-            font-size: 2rem;
-            line-height: 2.8rem;
-            letter-spacing: 1rem;
+            font-size: 1.3vw;
+            line-height: 3.2vh;
+            letter-spacing: 0.6vw;
             font-family: DrukBold;
             text-transform: uppercase;
-
             display: flex;
             flex-direction: column;
         }
@@ -61,7 +60,7 @@
             margin-left: 9vw;
             margin-bottom: 10vh;
             color: #E0BE8D;
-            font-size: 8rem;
+            font-size: 5vw;
             line-height: 1rem;
             font-weight: 400;
             font-family: PpeikoLight;
@@ -69,10 +68,11 @@
         h1{
             color: #000;
             margin-bottom: 20vh;
+            margin-left: 1vw;
             min-width: 90%;
             text-align: right;
             line-height: 1rem;
-            font-size: 18rem;
+            font-size: 11.5vw;
             font-family: PpeikoMedium;
             font-weight: 400;
         }
@@ -80,9 +80,9 @@
             margin-left: 10vw;
             min-width: 15vw;
             max-width: 15vw;
-            font-size: 1.8rem;            
             display: flex;
             flex-direction: column;
+            font-family: PublicoHeadlineLightItalic;
             div{
                 float: left;
             }
@@ -91,12 +91,13 @@
                 max-width: 80%;
                 min-width: 11.5vw;
                 max-width: 11.5vw;
-                line-height: 3rem;
+                line-height: 3.5vh;
                 float: left;
                 flex-wrap: nowrap;
                 z-index: 6;
                 font-family: PublicoHeadlineLightItalic;
                 font-weight: 400;
+                font-size: 1.15vw;
             }
             img{
                 position: absolute;
@@ -106,24 +107,34 @@
             }
             .comillaDerecha{
                 margin-left: -2vw;
+                img{
+                    min-width: 1.5vw;
+                    max-width: 1.5vw;
+                }
             }
             .comillaIzquierda{
                 margin-left: 10vw;
                 margin-top: -3vh;
+                img{
+                    min-width: 1vw;
+                    max-width: 1vw;
+                }
             }
             .comillasDer{
                 margin: 0;
                 padding: 0;
                 max-width: 1.5rem;
                 max-height: 1.5rem;
+                
             }
             label{
                 min-width: 10vw;
                 color: #E0BE8D;
                 margin-left: 12vw;
                 text-align: right;
-                font-size: 1.2rem;
+                font-size: 1vw;
                 margin-top: 4vh;
+                font-family: PublicoHeadlineLightItalic;
             }
             .sello{
                 z-index: 3;

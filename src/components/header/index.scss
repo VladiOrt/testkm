@@ -85,45 +85,60 @@
     .imgOne{
         z-index: 110;
         position: absolute;
-        min-width: 100vw;
+        min-width: 50vw;
         min-height: 100vh;
         margin-top: 90vh;
         animation: animationImgOne 1s;
         background-image: url('../../img/header/fondo1.png');
         background-size: 100%;
+        background-color: rgba(0,0,0, 0.5);
         background-repeat: no-repeat;
     }
     .imgDos{
-        z-index: 110;
+        z-index: 90;
         position: absolute;
-        min-width: 50vw;
-        min-height: 70vh;
-        margin-top: 60vh;
-        margin-left: 50vw;
+        min-width: 100vw;
+        min-height: 100vh;
+        //margin-top: 60vh;
+        margin-top: 90vh;
+
         animation: animationImgTwo 1s;
-        background-color: rgba(0,0,0, 0.5);
         display: flex;
-        justify-content: flex-start;
-        align-items: center;
+        justify-content: flex-end;
+        background-image: url('../../img/header/fondo2.png');
+        background-size: 100%;
+        background-repeat: no-repeat;
+        align-items: flex-start;
         ul{
+            margin-top: 10vh;
+            min-width: 40vw;
             margin-left: 10%;
             display: flex;
             flex-direction: column;
+            justify-content: flex-start;
             .link{
+                display: flex;
                 text-decoration: none;
                 list-style: none;
                 color: #E0BE8D;
-                font-size: 3.5rem;
-                line-height: 6rem;
+                font-size: 2vw;
+                line-height: 8vh;
                 font-family: PublicoHeadlineLightItalic;
-                background-repeat: no-repeat;
-                background-image:   linear-gradient(to right, #E0BE8D 100%, #C9C9C9 100%);
-                background-size:    30px 2px;//,
-                background-position:   0% 95%;      
+              
+                text{
+                    background-repeat: no-repeat;
+                    background-image:   linear-gradient(to right, #E0BE8D 100%, #C9C9C9 100%);
+                    background-size:   20px 2px;//,
+                    background-position:   0% 75%;   
+                }
+                   
             }
             .link:hover{
-                transition-duration: 0.5s;
-                background-size:    100% 2px;//,  
+                text{
+                    transition-duration: 0.5s;
+                    background-size:    100% 2px;//,  
+                }
+                
             }
         }
     }
@@ -151,10 +166,10 @@
     }
     @keyframes animationImgTwo {
         0%{
-            margin-top: 30vh;
+            margin-top: 60vh;
         }
         100%{
-            margin-top: 60vh;
+            margin-top: 90vh;
         }
     }
     @keyframes animationImgThree {

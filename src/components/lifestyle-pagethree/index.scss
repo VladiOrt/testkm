@@ -22,21 +22,22 @@
             }
             .two{
                 position: absolute;
-                min-width: 27.5vw;
-                max-width: 27.5vw;
+                min-width: 26.5vw;
+                max-width: 26.5vw;
                 margin-bottom: -40vh;
                 margin-left: 0vw;
-                line-height: 2rem;
-                font-size: 1.5rem;
+                
+                text-align: left;
+                line-height: 2.3vh;
+                font-size: 0.9vw;
                 font-family: ApexBook;
                 color: #707070;
-                text-align: left;
             }
             h2{
                 z-index: 5;
                 position: absolute;
                 font-family: PpeikoLight;
-                font-size: 5rem;
+                font-size: 3vw;
                 font-weight: 400;
                 color: #E0BE8D;
                 margin-left: -4vw;

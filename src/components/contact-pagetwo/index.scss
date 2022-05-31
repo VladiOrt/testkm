@@ -30,7 +30,7 @@
                     display: flex;
                     min-height: 3rem;
                     font-family: PpeikoLight;
-                    font-size: 1.5rem;
+                    font-size: 0.85vw;
                     color: #707070;
                 }
                 input{
@@ -47,7 +47,7 @@
                     margin-left: 80%;
                     border: 1px solid #C7974B;
                     background-color: #C7974B;
-                    font-size: 1rem;
+                    font-size: 0.7vw;
                     color: #FFF;
                     font-family: ApexBook;
                 }
@@ -97,7 +97,7 @@
                 position: absolute;
                 color: #FFF;
                 margin-bottom: 50vh;
-                font-size: 9rem;
+                font-size: 5.5vw;
                 font-family: PpeikoMedium;
             }    
             .direccion{
@@ -105,7 +105,7 @@
                 margin-bottom: 10vh;
                 margin-right: 10VW;
                 color: #FFF;
-                font-size: 1.5rem;
+                font-size: 0.9vw;
                 font-family: ApexBook;
             }
         }

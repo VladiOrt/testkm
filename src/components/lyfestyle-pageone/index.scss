@@ -34,7 +34,7 @@
                 z-index: 5;
                 position: absolute;
                 font-family: PpeikoLight;
-                font-size: 20rem;
+                font-size: 12vw;
                 font-weight: 400;
                 color: #E0BE8D;
                 margin-top: 55vh;
@@ -43,6 +43,10 @@
             .h1{
                 margin-top: 11vh;
                 margin-left: 5vw;
+                img{
+                    min-width: 12vw;
+                    max-width: 12vw;
+                }
             }
             .sello1{
                 position: absolute;

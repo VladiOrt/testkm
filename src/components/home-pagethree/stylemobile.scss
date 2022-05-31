@@ -1,0 +1,79 @@
+@media (max-width: 480px) {
+    .containerHomePageThree{
+        min-height: 100vh;
+        min-width: 100vw;
+        background-color: black;
+        background: rgb(0,0,0);
+      
+        background-image: url('../../img/home/pagethree/fondomobile.png');
+        background-size: 80vw;
+        background-repeat: no-repeat;
+        background-position:top;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding-bottom: 15vh;
+        .texto1,.texto2, .texto3{
+            color: #FFF;
+        }
+    
+        .texto1{
+            position: absolute;        
+            min-width: 70vw;
+            max-width: 70vw;
+            margin-top: 25vh;
+            margin-right: 0vw;
+            font-size: 4vw;
+            text-align: center;
+            line-height: 2.5vh;
+            font-family: ApexBook;
+            color: rgb(216,216,216);
+        
+            padding-bottom: 5vh;
+
+            background-repeat: no-repeat;
+            background-image:   linear-gradient(to right, #E0BE8D 100%, #C9C9C9 100%);
+            background-size:   40% 2px;//,
+            background-position:   50% 100%;   
+        }
+    
+    
+        .texto2{
+            position: absolute;        
+            min-width: 70vw;
+            max-width: 70vw;
+            margin-top: 10vh;
+            margin-right: 0vw;
+            font-size: 4vw;
+            text-align: center;
+            line-height: 2.5vh;
+            font-family: ApexBook;
+            color: rgb(216,216,216);
+
+            padding-bottom: 5vh;
+
+            background-repeat: no-repeat;
+            background-image:   linear-gradient(to right, #E0BE8D 100%, #C9C9C9 100%);
+            background-size:   40% 2px;//,
+            background-position:   50% 100%;   
+        }
+    
+        .texto3{
+            position: absolute;        
+            min-width: 70vw;
+            max-width: 70vw;
+            margin-top: 100vh;
+            margin-right: 0vw;
+            font-size: 4vw;
+            text-align: center;
+            line-height: 2.5vh;
+            font-family: ApexBook;
+            color: rgb(216,216,216);
+
+
+            padding-bottom: 5vh;
+
+           
+        }
+    }
+}

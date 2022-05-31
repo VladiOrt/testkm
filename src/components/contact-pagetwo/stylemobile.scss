@@ -1,0 +1,116 @@
+@media (max-width: 480px) {
+
+    .containerContactPageTwo{
+        min-width: 100vw;
+        min-height: 100vh;
+        margin-top: 10vh;
+        margin-bottom: 10vh;
+        display: flex;
+        flex-direction: column;
+    
+        .sectionOneContactPageTwo{
+            min-width: 90vw;
+            max-width: 90vw;
+            display: flex;
+            justify-content: flex-end;
+            align-items: center;
+            .Form{
+                min-width: 90%;
+                max-width: 90%;
+                display: flex;
+                flex-direction: column;
+                align-items: flex-end;
+                div{                    
+                    margin-top: 5vh;
+                    min-width: 90%;
+                    max-width: 90%;
+                    display: flex;
+                    flex-direction: column;
+                    label{
+                        display: flex;
+                        min-height: 5vh;
+                        font-family: PpeikoLight;
+                        font-size: 4.5vw;
+                        color: #707070;
+                    }
+                    input{
+                        border: 1px solid #E0BE8D;
+                        min-height: 55px;
+                    }
+                    .message{
+                        min-height: 200px;
+                    }
+                    button{
+                        min-width: 55%;
+                        max-width: 55%;
+                        min-height: 60px;
+                        margin-left: 45%;
+                        border: 1px solid #C7974B;
+                        background-color: #C7974B;
+                        font-size: 4.5vw;
+                        color: #FFF;
+                        font-family: ApexBook;
+                    }
+                }
+            }
+        }
+        .sectionTwoContactPageTwo{
+            margin-bottom: 0;
+            min-width : 100vw;
+            max-width: 100vw;
+            min-height: 50vh;
+            background-image: url('../../img/contact/pagetwo/fondo.png');
+            background-size: 110%;
+            background-repeat: no-repeat;
+            background-position: center;
+    
+            .filtro{
+                min-width: 90vw;
+                max-width: 90vw;
+                margin-left: 0vw;
+                min-height: 90vh;
+                background-color: transparent;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+    
+    
+                .sello1{
+                    position: absolute;
+                    min-width: 20vw;
+                    min-width: 20vw;
+                    margin-bottom: 60vh;
+                    margin-left: -70vw;
+                    background-color: #C7974B;
+                    min-height: 1.5rem;
+                    max-height: 1.5rem;
+                }
+                .sello2{
+                    position: absolute;
+                    min-width: 20vw;
+                    min-width: 20vw;
+                    margin-bottom: -60vw;
+                    margin-left: 70vw;
+                    background-color: #C7974B;
+                    min-height: 1.5rem;
+                    max-height: 1.5rem;
+                }
+                .titulo{
+                    position: absolute;
+                    color: #FFF;
+                    margin-bottom: 50vh;
+                    font-size: 15vw;
+                    font-family: PpeikoMedium;
+                }    
+                .direccion{
+                    position: absolute;
+                    margin-bottom: 10vh;
+                    margin-left: 10vw;
+                    color: #FFF;
+                    font-size: 4.5vw;
+                    font-family: ApexBook;
+                }
+            }
+        }
+    }
+}

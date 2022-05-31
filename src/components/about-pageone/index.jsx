@@ -1,5 +1,8 @@
 import React from "react";
+
 import './index.scss'
+import './stylemobile.scss'
+
 const AboutPageOne = () =>{
     return(
         <div className="containerAboutPageFour">

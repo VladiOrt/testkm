@@ -21,26 +21,25 @@
             }
             .two{
                 position: absolute;
-                min-width: 27vw;
-                max-width: 27vw;
+                min-width: 27.5vw;
+                max-width: 27.5vw;
                 margin-bottom: -40vh;
-                margin-left: 0vw;
-                line-height: 1.8rem;
-                font-size: 1.4rem;
+                line-height: 2.3vh;
+                font-size: 0.89vw;
                 color: #707070;
                 font-family: ApexBook;
             }
             h2{
+
                 z-index: 5;
                 position: absolute;
                 font-family: PpeikoLight;
-                font-size: 5rem;
+                font-size: 3.5vw;
                 font-weight: 400;
                 color: #E0BE8D;
                 margin-left: -8vw;
                 margin-bottom: 0vh;
                 margin-top: 0;
-         
             }
             .h1{
                 display: none;
@@ -89,7 +88,7 @@
         align-items: flex-end;
         text{
             color: #C7974B;
-            font-size: 2rem;
+            font-size: 1.2vw;
             margin-bottom: 3vh;
             margin-left: 3vw;
             min-width: 20vw;

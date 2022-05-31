@@ -1,0 +1,81 @@
+@media (max-width: 480px) {
+    .containerHomePageTwo{
+        min-height: 80vh;
+        min-width: 100vw;
+        display: flex;
+        flex-direction: row;
+        margin-top: 5vh;
+        margin-bottom: 5vh;
+        flex-wrap: wrap;
+        .sectionOneHomePageTwo{ 
+            z-index: 2;
+            min-width: 0vw;
+            display: flex;
+            justify-content: flex-end;
+            align-items: center;
+            display: none;
+            .lineaUno{
+                position: absolute;
+                border: 1px solid #707070;
+                min-width: 4vw;
+                max-width: 4vw;
+                margin-bottom: 70vh;
+                margin-right: 1vw;
+            }
+            .lineaDos{
+                position: absolute;
+                border: 1px solid #707070;
+                min-width: 6vw;
+                max-width: 6vw;
+                margin-bottom: -50vh;
+                margin-right: -61vw;
+            }
+        }
+        .sectionTwoHomePageTwo{
+            min-width: vw;
+            display: flex;
+            align-items: flex-end;
+            .sectionTwoHomePageTwoFondo{
+                min-width: 75vw;
+                min-height: 80vh;
+                max-height: 80vh;
+                background-image: url('../../img/home/pagetwo/fondo.png');
+                background-size: cover;
+                background-position: center;
+                background-repeat: no-repeat;
+            }
+    
+        }
+        .sectionThreeHomePageTwo{
+            min-width: 25vw;
+            display: flex;
+            justify-content: center;    
+            align-items: flex-end;
+            font-size: 30vw;
+            writing-mode: vertical-lr;
+            transform: rotate(180deg);
+            line-height: 15vw;
+            font-family: PpeikoMedium;
+        }
+        .sectionFourHomePageTwo{
+            min-width: 100vw;
+            display: flex;
+            justify-content: flex-end;
+            align-items: center;
+            text{
+                margin-top: 5vh;
+                color: #E0BE8D;
+                min-height: 20vh;
+                min-width:57vw;
+                max-width:57vw;
+                text-align: left;
+                margin-right: 10vw;
+                font-size: 6vw;
+                line-height: 3.5vh;
+                letter-spacing: 0.8rem;
+                font-family: DrukBold;
+                text-transform: uppercase;
+            }
+        }
+    }
+}

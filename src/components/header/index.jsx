@@ -1,10 +1,11 @@
 import React, {useState} from "react";
 import './index.scss'
-
+import './stylemobile.scss'
 import { Link } from "react-router-dom";
 const Header = () =>{
 
     const[estado,setEstado] = useState('0')
+    
     return(
         <div className="containerGeneralHeader">
             
@@ -35,12 +36,13 @@ const Header = () =>{
                 estado =='1'?
                 (<section className="imgDos">
                     <ul>
-                        <Link to="/" className="link">Home</Link>
-                        <Link to="/about" className="link">About Us</Link>
-                        <Link to="/beauty" className="link">Km beauty</Link>
-                        <Link to="/lifestyle" className="link">Km lifestyle</Link>
-                        <Link to="/education" className="link">Education</Link>
-                        <Link to="/contact" className="link">Contact Us</Link>
+                        <Link to="/" className="link"><text>Home</text></Link>
+                        
+                        <Link to="/about" className="link" onClick={()=>setEstado('0')}><text>About Us</text></Link>
+                        <Link to="/beauty" className="link" onClick={()=>setEstado('0')}><text>Km beauty</text></Link>
+                        <Link to="/lifestyle" className="link" onClick={()=>setEstado('0')}><text>Km lifestyle</text></Link>
+                        <Link to="/education" className="link" onClick={()=>setEstado('0')}><text>Education</text></Link>
+                        <Link to="/contact" className="link" onClick={()=>setEstado('0')}><text>Contact Us</text></Link>
                     </ul>
                 </section>)
                 :

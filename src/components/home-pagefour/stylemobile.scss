@@ -1,0 +1,86 @@
+@media (max-width: 480px) {
+    .containerHomePageFour{
+        min-width: 100vw;
+        min-height: 100vh;
+        max-width: 100vw;
+        max-height: 100vh;
+        display: flex;
+        align-items: flex-start;
+        flex-direction: column;
+        .sectionOneHomePageFour{
+            z-index: 3;
+            min-width: 100vw;
+            min-height: 30vh;
+            .sectionContentOneHomePageFour{
+                min-height: 30vh;
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+                .one{
+                    display: none;                 
+                }
+                .two{
+                    display: none;     
+                }
+                h2{
+                    z-index: 5;
+                    position: absolute;
+                    font-family: PpeikoLight;
+                    font-size: 15vw;
+                    font-weight: 400;
+                    color: #E0BE8D;
+                    margin-bottom: -15vh;
+                    margin-left: -20vw;
+                }
+                h1{
+                    z-index: 4;
+                    position: absolute;
+                    font-family: PpeikoMedium;
+                    font-size: 35vw;
+                    font-weight: 400;
+                    margin-left: 15vw;
+                    margin-bottom: -0vh;
+                }
+                .sello1{
+                    position: absolute;
+                    min-width: 10vw;
+                    min-height: 18px;
+                    max-height: 18px;
+                    margin-top: 5vh;
+                    margin-left: -55vw;
+                    z-index: 20;
+                    background: rgb(224,190,141);
+                    background: linear-gradient(90deg, rgba(224,190,141,1) 0%, rgba(199,151,75,1) 100%);                       
+                }
+                .sello2{
+                    position: absolute;
+                    min-width: 30vw;
+                    min-height: 18px;
+                    max-height: 18px;
+                    margin-top: 80vh;
+                    margin-left: -70vw;
+                    z-index: 20;
+                    background: rgb(224,190,141);
+                    background: linear-gradient(90deg, rgba(224,190,141,1) 0%, rgba(199,151,75,1) 100%);
+                }
+            }
+        }
+        .sectionTwoHomePageFour{
+            z-index: 2;
+            margin-left: 10vw;
+            min-width: 90vw;
+            min-height: 30vh;
+            background-image: url('../../img//home/pagefour/fondo.png');
+            background-size: cover;
+            background-repeat: no-repeat;
+        }
+        .sectionThreeHomePageFour{
+            position: absolute;
+            padding-top: 50vh;
+            z-index: 3;
+            min-width: 100vw;
+            min-height: 50vh;
+        }
+    }
+}

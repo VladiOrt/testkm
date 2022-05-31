@@ -1,5 +1,7 @@
 import React from "react";
 import './index.scss'
+import './stylemobile.scss'
+
 import Logo from '../../img/beauty/pageone/Logo.png'
 const LifeStylePageOne = () =>{
     return(

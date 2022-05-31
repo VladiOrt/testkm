@@ -37,7 +37,8 @@
                 z-index: 5;
                 position: absolute;
                 font-family: PpeikoLight;
-                font-size: 8rem;
+                font-size: 6vw;
+                
                 font-weight: 400;
                 color: #E0BE8D;
                 min-width: 30vw;
@@ -50,7 +51,7 @@
                 z-index: 4;
                 position: absolute;
                 font-family: PpeikoMedium;
-                font-size: 40rem;
+                font-size: 25vw;
                 font-weight: 400;
                 margin-right: 25vw;
 
@@ -92,23 +93,21 @@
             padding: 1vw;
             margin-left: -3vw;
             margin-bottom: 25vh;
-            min-width: 23vw;
-            max-width: 23vw;
-            font-size: 1.2rem;
+            min-width: 22vw;
+            max-width: 22vw;
+            font-size: 0.8vw;
             color: #707070;
             display: flex;
             justify-content: center;
             align-items: center;
-            line-height: 2rem;
+            line-height: 2.4vh;
             flex-direction: column;
             font-family: ApexBook;
             text-align: justify;
-            letter-spacing: 1px;
-
             label{
                 min-width: 100%;
                 color: #C7974B;
-                font-size: 1.4rem;
+                font-size: 0.9vw;
                 text-align: left;
                 font-family: PpeikoLight;
             }

@@ -1,5 +1,6 @@
 import React from "react";
 import './index.scss'
+import './stylemobile.scss'
 
 const ContactPageTwo= () =>{
     return(
@@ -35,8 +36,8 @@ const ContactPageTwo= () =>{
                 <div className="sello2"></div>
                 <div className="titulo">Contact Info</div>
                 <div className="direccion">
-                    Masaryk 125, Polanco, CDMX, MX.<br/><br/>
-                    #52 (55) 555 888<br/><br/>
+                    Arquímedes 199, indoor 202, Polanco, CDMX, MX.<br/><br/>
+                    #52 (55) 3032 5139<br/><br/>
                     hello@kasamasaryk.com
                 </div>
                 </div>

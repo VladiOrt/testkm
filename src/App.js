@@ -11,6 +11,8 @@ import Education from './components/contents/education'
 import Contact from './components/contents/contactus';
 import './App.scss';
 
+
+import HomeCarrusel from './components/home-carrusel';
 function App() {
   return (
     <BrowserRouter  id='App' 
@@ -26,6 +28,8 @@ function App() {
           <Route  path='/lifestyle'  element={<LifeStyle></LifeStyle>}  />       
           <Route  path='/education'  element={<Education></Education>}  />          
           <Route  path='/contact'  element={<Contact></Contact>} />
+
+          <Route  path='/homecarrusel'  element={<HomeCarrusel></HomeCarrusel>} />
       </Routes>
 
       <div className='footerContainer'>

@@ -23,7 +23,7 @@
                 margin-bottom: 40vh;
                 margin-left: 50vw;
             }
-            .two{
+            .two{               
                 position: absolute;
                 min-width: 5vw;
                 border: 1px solid  #707070;
@@ -34,11 +34,14 @@
                 z-index: 5;
                 position: absolute;
                 font-family: PpeikoMedium;
-                font-size: 20rem;
+                font-size: 12.5vw;
                 font-weight: 400;
                 color: #000;
                 margin-top: 40vh;
                 margin-left: 48vw;
+            }
+            .h2mobile{
+                display: none;
             }
             h1{
                 display: none;
