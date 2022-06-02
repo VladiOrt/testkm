@@ -1,10 +1,23 @@
 {
   "files": {
-    "main.css": "/testkm/static/css/main.beb272f4.css",
-    "main.js": "/testkm/static/js/main.c3e67d8f.js",
+    "main.css": "/testkm/static/css/main.0c3d541e.css",
+    "main.js": "/testkm/static/js/main.b2c34e71.js",
     "static/js/787.c771f4af.chunk.js": "/testkm/static/js/787.c771f4af.chunk.js",
     "static/media/fondo2.png": "/testkm/static/media/fondo2.9a13fcc58e251c0ff3fb.png",
     "static/media/fondo.png": "/testkm/static/media/fondo.2c7e4360985bd8333c7e.png",
+    "static/media/img1.png": "/testkm/static/media/img1.0b838388e2cc14e8e7e3.png",
+    "static/media/img13.png": "/testkm/static/media/img13.ca497ae07b169751c0b9.png",
+    "static/media/img11.png": "/testkm/static/media/img11.0ed7eb4325c39b0c4c11.png",
+    "static/media/img12.png": "/testkm/static/media/img12.d295777fd83082db9e81.png",
+    "static/media/img10.png": "/testkm/static/media/img10.1ef74b11b21e3228bf67.png",
+    "static/media/img5.png": "/testkm/static/media/img5.10801e848554490a4dce.png",
+    "static/media/img4.png": "/testkm/static/media/img4.e9268f145a3ce24d91b7.png",
+    "static/media/img2.png": "/testkm/static/media/img2.4bc466f20395a57720c4.png",
+    "static/media/img3.png": "/testkm/static/media/img3.daef8fb7116767a7352b.png",
+    "static/media/img6.png": "/testkm/static/media/img6.4ec770da68718214648e.png",
+    "static/media/img8.png": "/testkm/static/media/img8.59ca1fc8765b9b761801.png",
+    "static/media/img7.png": "/testkm/static/media/img7.be4d9075c8372a1f726d.png",
+    "static/media/img9.png": "/testkm/static/media/img9.acb7208ffd519f5c35cf.png",
     "static/media/pageone.png": "/testkm/static/media/pageone.23534f2861add1c175d6.png",
     "static/media/fondo3.png": "/testkm/static/media/fondo3.a33396182e5f83665843.png",
     "static/media/fondomobil.png": "/testkm/static/media/fondomobil.8ed53bb89cabfd9f57a9.png",
@@ -19,17 +32,16 @@
     "static/media/Druk-Medium.ttf": "/testkm/static/media/Druk-Medium.2448167c09e51f42606f.ttf",
     "static/media/ufonts.com_apexnew-book-opentype.otf": "/testkm/static/media/ufonts.com_apexnew-book-opentype.e24911b20875b98c4258.otf",
     "static/media/fondomobile.png": "/testkm/static/media/fondomobile.44739970eec4708ae5db.png",
+    "static/media/Img2.png": "/testkm/static/media/Img2.63398d80a31d43636b7e.png",
     "static/media/Logo.png": "/testkm/static/media/Logo.43538964deb816caa61c.png",
     "static/media/Texto.png": "/testkm/static/media/Texto.222fa72f3f218abf6765.png",
     "index.html": "/testkm/index.html",
-    "static/media/izquierda.svg": "/testkm/static/media/izquierda.7ca745ddcfde390037fdc767dfe68ced.svg",
-    "static/media/derecha.svg": "/testkm/static/media/derecha.ca47285b7c91ee401cab9252eff15ca1.svg",
-    "main.beb272f4.css.map": "/testkm/static/css/main.beb272f4.css.map",
-    "main.c3e67d8f.js.map": "/testkm/static/js/main.c3e67d8f.js.map",
+    "main.0c3d541e.css.map": "/testkm/static/css/main.0c3d541e.css.map",
+    "main.b2c34e71.js.map": "/testkm/static/js/main.b2c34e71.js.map",
     "787.c771f4af.chunk.js.map": "/testkm/static/js/787.c771f4af.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.beb272f4.css",
-    "static/js/main.c3e67d8f.js"
+    "static/css/main.0c3d541e.css",
+    "static/js/main.b2c34e71.js"
   ]
 }
