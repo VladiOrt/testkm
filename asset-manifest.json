@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/testkm/static/css/main.1f4e43be.css",
+    "main.css": "/testkm/static/css/main.8c96b9a3.css",
     "main.js": "/testkm/static/js/main.030148d4.js",
     "static/js/787.c771f4af.chunk.js": "/testkm/static/js/787.c771f4af.chunk.js",
     "static/media/fondo2.png": "/testkm/static/media/fondo2.9a13fcc58e251c0ff3fb.png",
@@ -31,7 +31,6 @@
     "static/media/Druk-Bold.otf": "/testkm/static/media/Druk-Bold.ac6a64c3ce0f0c681df0.otf",
     "static/media/Druk-Medium.ttf": "/testkm/static/media/Druk-Medium.2448167c09e51f42606f.ttf",
     "static/media/ufonts.com_apexnew-book-opentype.otf": "/testkm/static/media/ufonts.com_apexnew-book-opentype.e24911b20875b98c4258.otf",
-    "static/media/fondomobile.png": "/testkm/static/media/fondomobile.44739970eec4708ae5db.png",
     "static/media/Img2.png": "/testkm/static/media/Img2.63398d80a31d43636b7e.png",
     "static/media/Logo.png": "/testkm/static/media/Logo.43538964deb816caa61c.png",
     "static/media/Texto.png": "/testkm/static/media/Texto.222fa72f3f218abf6765.png",
@@ -43,12 +42,12 @@
     "static/media/abajo.svg": "/testkm/static/media/abajo.1d35468e1f5d038ec151e10a1e5749f8.svg",
     "static/media/arriba.svg": "/testkm/static/media/arriba.28cad4d50d11cb8f298bee029fb125b2.svg",
     "static/media/circulo.svg": "/testkm/static/media/circulo.e393ee1960e86052e7faa3075c352e76.svg",
-    "main.1f4e43be.css.map": "/testkm/static/css/main.1f4e43be.css.map",
+    "main.8c96b9a3.css.map": "/testkm/static/css/main.8c96b9a3.css.map",
     "main.030148d4.js.map": "/testkm/static/js/main.030148d4.js.map",
     "787.c771f4af.chunk.js.map": "/testkm/static/js/787.c771f4af.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1f4e43be.css",
+    "static/css/main.8c96b9a3.css",
     "static/js/main.030148d4.js"
   ]
 }
