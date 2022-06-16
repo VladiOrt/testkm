@@ -1,8 +1,14 @@
 {
   "files": {
-    "main.css": "/testkm/static/css/main.dbf1ae0c.css",
-    "main.js": "/testkm/static/js/main.dd6d9799.js",
+    "main.css": "/testkm/static/css/main.08282d6a.css",
+    "main.js": "/testkm/static/js/main.cfd40b5e.js",
     "static/js/787.c771f4af.chunk.js": "/testkm/static/js/787.c771f4af.chunk.js",
+    "static/media/Img2.svg": "/testkm/static/media/Img2.993b5600181369ea6a4a.svg",
+    "static/media/Img3.svg": "/testkm/static/media/Img3.c4033e6a7f7e5a93cbf4.svg",
+    "static/media/Img4.svg": "/testkm/static/media/Img4.4a30d2bcfacd3251a9fc.svg",
+    "static/media/Img5.svg": "/testkm/static/media/Img5.e850a69cdc8046e20e85.svg",
+    "static/media/Img1.svg": "/testkm/static/media/Img1.17a2289358ba2523dbc9.svg",
+    "static/media/Img9.svg": "/testkm/static/media/Img9.f80c81f103a08554e800.svg",
     "static/media/fondo2.png": "/testkm/static/media/fondo2.9a13fcc58e251c0ff3fb.png",
     "static/media/fondo.png": "/testkm/static/media/fondo.2c7e4360985bd8333c7e.png",
     "static/media/img1.png": "/testkm/static/media/img1.0b838388e2cc14e8e7e3.png",
@@ -22,6 +28,7 @@
     "static/media/fondo3.png": "/testkm/static/media/fondo3.a33396182e5f83665843.png",
     "static/media/fondomobil.png": "/testkm/static/media/fondomobil.8ed53bb89cabfd9f57a9.png",
     "static/media/fondo1.png": "/testkm/static/media/fondo1.da4e1683100901e23cba.png",
+    "static/media/Img7.svg": "/testkm/static/media/Img7.1b2adb5d7c64345af11e.svg",
     "static/media/PPEiko-BlackItalic.otf": "/testkm/static/media/PPEiko-BlackItalic.76f7af6c8b7ccd598dc5.otf",
     "static/media/PPEiko-LightItalic.otf": "/testkm/static/media/PPEiko-LightItalic.b8bbcc6707a8c6be31ac.otf",
     "static/media/PPEiko-Medium.otf": "/testkm/static/media/PPEiko-Medium.3c2d6922b5721506be7e.otf",
@@ -35,6 +42,8 @@
     "static/media/Img2.png": "/testkm/static/media/Img2.63398d80a31d43636b7e.png",
     "static/media/Logo.png": "/testkm/static/media/Logo.43538964deb816caa61c.png",
     "static/media/Texto.png": "/testkm/static/media/Texto.222fa72f3f218abf6765.png",
+    "static/media/Img8.svg": "/testkm/static/media/Img8.aa7d26941353338bee4a.svg",
+    "static/media/Img6.svg": "/testkm/static/media/Img6.adfee0956110ec661165.svg",
     "static/media/icon3.svg": "/testkm/static/media/icon3.498ab64abc599141d72269fcb27f2133.svg",
     "static/media/icon4.svg": "/testkm/static/media/icon4.1842dde1ee16bb8c9f78f3d52c3af6a3.svg",
     "static/media/icon2.svg": "/testkm/static/media/icon2.c244326fef0adf3a25839ab897bfd883.svg",
@@ -43,12 +52,12 @@
     "static/media/abajo.svg": "/testkm/static/media/abajo.1d35468e1f5d038ec151e10a1e5749f8.svg",
     "static/media/arriba.svg": "/testkm/static/media/arriba.28cad4d50d11cb8f298bee029fb125b2.svg",
     "static/media/circulo.svg": "/testkm/static/media/circulo.e393ee1960e86052e7faa3075c352e76.svg",
-    "main.dbf1ae0c.css.map": "/testkm/static/css/main.dbf1ae0c.css.map",
-    "main.dd6d9799.js.map": "/testkm/static/js/main.dd6d9799.js.map",
+    "main.08282d6a.css.map": "/testkm/static/css/main.08282d6a.css.map",
+    "main.cfd40b5e.js.map": "/testkm/static/js/main.cfd40b5e.js.map",
     "787.c771f4af.chunk.js.map": "/testkm/static/js/787.c771f4af.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dbf1ae0c.css",
-    "static/js/main.dd6d9799.js"
+    "static/css/main.08282d6a.css",
+    "static/js/main.cfd40b5e.js"
   ]
 }
